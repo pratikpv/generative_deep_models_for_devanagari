@@ -8,14 +8,14 @@ Dataset is available at https://www.kaggle.com/rishianand/devanagari-character-s
 
 ### Sample  data
 
-![Sample data] (https://github.com/pratikpv/generative_deep_models_for_devanagari/blob/master/sample_data.png)
+![Sample data](https://github.com/pratikpv/generative_deep_models_for_devanagari/blob/master/sample_data.png)
 
 ## Simple ANN (multi-layer perceptron based GAN):
 
 
 ### Training of the model
 
-![Training of the model] (https://github.com/pratikpv/generative_deep_models_for_devanagari/blob/master/ANN_GAN/training_ann_gan.gif)
+![Training of the model](https://github.com/pratikpv/generative_deep_models_for_devanagari/blob/master/ANN_GAN/training_ann_gan.gif)
 
 
 
